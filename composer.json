@@ -1,5 +1,5 @@
 {
-    "name": "asikam/simple-qrcode",
+    "name": "ivliev/simple-qrcode",
     "description": "Simple QrCode is a QR code generator made for Laravel.",
     "keywords": ["qrcode", "laravel", "simple", "generator", "wrapper"],
     "license" : "MIT",
